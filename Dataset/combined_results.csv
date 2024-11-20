@@ -1,0 +1,5 @@
+Dataset,Total_Instances,Correct_Predictions,Accuracy
+semeval2007,120,66,0.55
+senseval2,242,144,0.5950413223140496
+senseval3,297,157,0.5286195286195287
+Weighted Average,659,367,0.5569044006069803

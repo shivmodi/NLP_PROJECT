@@ -1,0 +1,298 @@
+instance_id,sentence,target_word,predicted_sense,gold_sense,gold_sense_key,score,is_correct
+d000.s000.t001,That 's what the man had said .,said,state.v.01,allege.v.01,say%2:32:01::,3.7107274532318115,False
+d000.s001.t003,"Haney peered doubtfully at his drinking companion through bleary , tear-filled eyes .",eyes,eye.v.01,eye.n.01,eye%1:08:00::,0.041288815438747406,False
+d000.s002.t006,"He had no ready answer , as much from surprise as from the fit of coughing .",coughing,cough.n.01,cough.n.01,coughing%1:26:00::,2.2853844165802,True
+d000.s003.t002,Was the man drunk or crazy or both ?,crazy,brainsick.s.01,brainsick.s.01,crazy%5:00:00:insane:00,2.9508719444274902,True
+d000.s004.t009,"But his new-found buddy had matched him drink for drink until he lost count , and the man 's eyes were still clear .",clear,clear.a.01,clear.a.04,clear%3:00:02::,3.841336727142334,False
+d000.s005.t004,"The guy is off his rocker , Haney thought to himself , and looked away from those eyes .",eyes,eye.v.01,eye.n.01,eye%1:08:00::,2.29579496383667,False
+d000.s006.t007,"Eyes that were clear , but also bright with a strange intensity , a sort of cold fire burning behind them .",burning,burn.v.07,burn.v.06,burn%2:37:00::,2.9206223487854004,False
+d000.s007.t000,Why had n't he noticed it before ?,noticed,notice.v.02,notice.v.02,notice%2:39:00::,3.1756162643432617,True
+d000.s008.t001,"No , the man was not drunk",drunk,intoxicated.a.01,intoxicated.a.01,drunk%3:00:00::,0.046707525849342346,True
+d000.s009.t003,He wondered how he got tied up with this stranger .,stranger,stranger.n.01,stranger.n.01,stranger%1:18:00::,3.54302978515625,True
+d000.s010.t000,"But , of course , he remembered now .",remembered,remember.v.01,remember.v.01,remember%2:31:00::,3.8223938941955566,True
+d000.s011.t005,"It was blurred , after two hours of steady drinking , but the occasion of it came back to him .",came back,,come_back.v.01,come_back%2:30:00::,-inf,False
+d000.s012.t011,"The stranger , his head seemingly sunk in thought , started to cross the street against the light just as a huge moving van roared through the intersection .",intersection,intersection.n.01,intersection.n.02,intersection%1:06:00::,2.221097469329834,False
+d000.s013.t007,"Brakes howled and a horn blared furiously , but the man would have been hit if Phil had n't called out to him a second before .",second,second.s.01,second.n.01,second%1:28:00::,3.1512250900268555,False
+d000.s014.t004,"His shout had been involuntary , something anybody might have done without thinking , on the spur of the moment .",on the spur of the moment,,on_the_spur_of_the_moment.r.01,on_the_spur_of_the_moment%4:02:00::,-inf,False
+d000.s015.t003,"As a matter of fact , he would n't have cared at all if the guy had been hit .",hit,hit.v.02,hit.v.02,hit%2:35:01::,3.3760628700256348,True
+d000.s016.t010,"Actually , he regretted having opened his mouth when the truck came to a stop and the angry driver jumped down from the cab and walked back toward them .",walked,walk.v.01,walk.v.01,walk%2:38:00::,2.2850632667541504,True
+d000.s017.t006,"By then , the stranger was thanking Haney profusely and had one arm around his shoulders as if he were an old friend .",friend,friend.n.01,friend.n.01,friend%1:18:00::,2.2453629970550537,True
+d000.s018.t006,So the driver started to curse at both of them as if they had been in a plot together to ruin his safe-driving record .,record,record.n.06,record.n.04,record%1:04:01::,1.1308144330978394,False
+d000.s019.t007,"Then the man he saved turned and looked squarely into the truck driver 's face , without saying a word .",word,word.n.02,word.n.02,word%1:10:03::,2.9027631282806396,True
+d000.s020.t005,"Very suddenly , the driver stopped swearing at them , turned on his heel and went back to his truck .",truck,truck.n.01,truck.n.01,truck%1:06:00::,1.6694130897521973,True
+d000.s021.t003,Haney had n't given it much thought at the time .,time,time.n.01,time.n.01,time%1:11:00::,3.8978431224823,True
+d000.s022.t004,"Now he recalled it very clearly , and wondered what the truck driver had seen in those eyes to make him back off .",make,make.v.03,make.v.08,make%2:36:15::,3.4426543712615967,False
+d000.s023.t005,It must have been the sort of look that can call a bluff without saying a word .,word,word.n.02,word.n.02,word%1:10:03::,2.9673871994018555,True
+d000.s024.t004,"When the light went their way , they went on across the street .",street,street.n.01,street.n.02,street%1:06:01::,1.1813197135925293,False
+d000.s025.t008,"And when the stranger found out that Phil was on the way to one of his favorite bars , he insisted on offering to buy drinks for both of them .",drinks,drink.n.01,drink.n.01,drink%1:13:04::,3.1836092472076416,True
+d000.s026.t008,"Phil usually went alone and kept to himself , sitting in a corner and passing the time by nursing his favorite grudges .",grudges,grudge.n.01,grudge.n.01,grudge%1:12:00::,3.382402181625366,True
+d000.s027.t009,"But he decided he would n't mind company in return for free drinks , even though he made good money at his job .",job,occupation.n.01,occupation.n.01,job%1:04:00::,2.447495460510254,True
+d000.s029.t003,"Now he wondered if it was worth it , having a screwball for company .",company,company.n.06,company.n.03,company%1:26:00::,3.2363548278808594,False
+d000.s030.t004,"He really did n't take the offer seriously , but he began to feel uneasy .",uneasy,uneasy.a.01,awkward.s.06,uneasy%5:00:00:uncomfortable:01,3.237109661102295,False
+d000.s031.t010,"When he finally got the coughing under control , he realized that Pete -LRB- all he gave was his first name -RRB- was still waiting for an answer -- he did n't even seem to wink as he continued to stare .",stare,gaze.v.01,gaze.v.01,stare%2:39:00::,2.806541919708252,True
+d000.s032.t002,Haney managed a weak laugh .,laugh,laugh.n.01,laugh.n.01,laugh%1:10:00::,1.928192138671875,True
+d000.s033.t000,"`` Guess I ca n't think of anyone , Pete .",think,think.v.01,entertain.v.02,think_of%2:31:03::,1.3554580211639404,False
+d000.s034.t000,Thanks anyhow ``,Thanks,thank.v.01,thanks.n.01,thanks%1:10:00::,0.6228450536727905,False
+d000.s035.t004,A faint crease appeared between the man 's eyebrows .,eyebrows,eyebrow.n.01,eyebrow.n.01,eyebrow%1:08:00::,0.9015859961509705,True
+d000.s036.t001,"`` I think you are n't taking me seriously , Phil .",taking,consider.v.03,take.v.06,take%2:31:07::,2.758636474609375,False
+d000.s037.t000,I meant it .,meant,mean.v.01,mean.v.01,mean%2:32:01::,2.3811542987823486,True
+d000.s038.t002,And everybody has some kind of grudge .,grudge,grudge.n.01,grudge.n.01,grudge%1:12:00::,3.3657379150390625,True
+d000.s039.t001,I might have got hit by that truck if it was n't for you .,truck,truck.n.01,truck.n.01,truck%1:06:00::,3.504077434539795,True
+d000.s040.t001,I believe in returning favors .,favors,favor.n.02,favor.n.01,favor%1:04:00::,2.3622634410858154,False
+d000.s041.t002,I 'll do anything for somebody I like .,like,wish.v.02,like.v.03,like%2:37:04::,3.643010139465332,False
+d000.s042.t001,"It wo n't cost you a cent , Phil .",cent,penny.n.02,penny.n.02,cent%1:21:00::,1.450571060180664,True
+d000.s043.t001,Go ahead and try me `` ! !,try,try.v.01,test.v.01,try%2:41:01::,1.6000272035598755,False
+d000.s044.t001,Phil rubbed his forehead wearily .,forehead,brow.n.01,brow.n.01,forehead%1:08:00::,0.8382993340492249,True
+d000.s045.t002,He was beginning to feel woolly .,woolly,wooly.s.03,addled.s.02,woolly%5:00:00:confused:00,1.179031252861023,False
+d000.s046.t003,Maybe it would be better to humor the guy and then make an exit .,exit,exit.n.03,exit.n.03,exit%1:04:00::,3.2998971939086914,True
+d000.s047.t003,"He really did n't expect anything to come of it , and there were a few people",people,people.n.01,people.n.01,people%1:14:00::,-0.3636603355407715,True
+d000.s048.t003,"`` All right `` , he conceded finally , `` if you must know , I do n't get along with the landlord .",landlord,landlord.n.01,landlord.n.01,landlord%1:18:00::,2.169273614883423,True
+d000.s049.t007,He keeps riding me because I like to listen to the radio and sing while I 'm taking a bath .,bath,bath.n.02,bath.n.02,bath%1:04:00::,1.9159905910491943,True
+d000.s050.t003,"He says the neighbors complain , but I do n't believe it .",believe,believe.v.01,believe.v.01,believe%2:31:00::,3.6153595447540283,True
+d000.s051.t001,Why do n't they tell me themselves if it bothers them `` ?,bothers,annoy.v.01,annoy.v.01,bother%2:37:00::,3.1263368129730225,True
+d000.s052.t003,The man closed his eyes and nodded .,nodded,nod.v.01,nod.v.02,nod%2:32:00::,3.4340901374816895,False
+d000.s053.t002,"When he looked up again , he seemed almost contented .",contented,contented.a.01,content.v.02,content%2:37:00::,3.1387081146240234,False
+d000.s054.t000,`` Fine .,Fine,very_well.r.02,all_right.s.01,fine%5:00:00:satisfactory:00,1.957335352897644,False
+d000.s055.t001,Give me your address .,address,address.n.02,address.n.06,address%1:10:02::,0.9039358496665955,False
+d000.s056.t001,It will take a little time .,time,time.n.02,time.n.03,time%1:28:00::,3.5804481506347656,False
+d000.s057.t004,I want to study your landlord 's habits and movements first .,movements,movement.n.03,motion.n.03,movement%1:04:00::,1.971588134765625,False
+d000.s058.t003,"You see , I always make it look like an accident .",accident,accident.n.01,accident.n.01,accident%1:11:01::,3.5719082355499268,True
+d000.s059.t002,"Maybe suicide , if it looks reasonable .",reasonable,fair.s.02,reasonable.a.01,reasonable%3:00:00::,3.4644527435302734,False
+d000.s060.t001,In that way there 's no trouble for the customer `` .,customer,customer.n.01,customer.n.01,customer%1:18:00::,3.3935799598693848,True
+d000.s061.t001,Haney 's eyebrows flew up .,flew,fly.v.02,fly.v.07,fly%2:30:01::,1.3252429962158203,False
+d000.s062.t000,`` Customer `` ?,Customer,customer.n.01,customer.n.01,customer%1:18:00::,1.796424388885498,True
+d000.s063.t000,Pete smiled modestly .,smiled,smile.v.01,smile.v.01,smile%2:29:00::,1.5581272840499878,True
+d000.s064.t001,"`` It 's my line of work `` , he said",said,state.v.01,say.v.08,say%2:32:15::,3.2663190364837646,False
+d000.s065.t006,"Five minutes later , before Haney could make his break , the stranger stood up and nodded farewell .",farewell,farewell.n.01,farewell.n.01,farewell%1:10:00::,2.248807430267334,True
+d000.s066.t011,"Haney watched the small but wiry man slip out the door quickly and silently , and felt relieved to see that nobody else seemed to notice his departure .",departure,departure.n.01,departure.n.01,departure%1:04:00::,2.9434516429901123,True
+d000.s067.t010,"Phil decided to stay a little longer , and as time passed it seemed as if the strange little man had never been there , but for the other glass on the table .",table,table.n.03,table.n.02,table%1:06:01::,2.1735076904296875,False
+d000.s068.t009,"Some time before midnight he returned to his apartment and hit the sack , putting the whole incident out of mind before he fell asleep .",fell asleep,,fall_asleep.v.01,fall_asleep%2:29:00::,-inf,False
+d000.s069.t004,"The next day , Sunday , the hangover reminded Haney where he had been the night before .",night,night.n.05,night.n.01,night%1:28:00::,-0.24657513201236725,False
+d000.s070.t004,"The hangover in turn reminded him of his conversation with the weirdy , and he groaned .",groaned,groan.v.01,groan.v.01,groan%2:32:00::,0.32237762212753296,True
+d000.s071.t011,"He went for more aspirin later in the day , and passed the surly landlord on the way -- he was still alive and scowling as usual , as if tenants were a burden in his life .",life,animation.n.01,life.n.03,life%1:26:02::,3.0057239532470703,False
+d000.s072.t001,Phil shrugged and ignored him .,ignored,ignore.v.03,ignore.v.01,ignore%2:32:02::,0.6843768358230591,False
+d000.s074.t001,By Wednesday the landlord was still alive .,alive,alive.a.01,alive.a.01,alive%3:00:01::,2.7410929203033447,True
+d000.s075.t009,"Of course On Thursday , Haney mailed the monthly check for separate maintenance to his wife Lolly , and wished the stranger could do something about her",do,make.v.01,do.v.03,do%2:41:04::,2.6533217430114746,False
+d000.s076.t005,"Coming home from work , he was startled to see a police car parked in front of the apartment building .",front,front.a.01,presence.n.02,front%1:15:03::,0.4522653818130493,False
+d000.s077.t003,"Inside the lobby , people were standing around , talking excitedly .",talking,talk.v.01,talk.v.01,talk%2:32:01::,3.6156668663024902,True
+d000.s078.t007,His spine crawled with a foreboding premonition as he asked one of his fellow tenants what had happened .,happened,happen.v.01,happen.v.01,happen%2:30:00::,3.1944589614868164,True
+d000.s079.t001,The landlord had died .,died,die.v.01,die.v.01,die%2:30:00::,2.3701539039611816,True
+d000.s080.t006,"Late that afternoon , it seemed , he had fallen off the roof while on some obscure errand or inspection .",inspection,inspection.n.01,inspection.n.01,inspection%1:04:00::,2.534236431121826,True
+d000.s082.t010,Nobody witnessed the fall -- just the sickening impact when his body smashed on the pavement just outside the basement delivery entrance .,entrance,entrance.n.01,entrance.n.01,entrance%1:06:00::,2.9440879821777344,True
+d000.s083.t008,"Haney hoped that nobody noticed his sudden pallor , as he felt the blood drain from his cheeks .",cheeks,cheek.n.01,cheek.n.01,cheek%1:08:00::,2.1940505504608154,True
+d000.s084.t005,"He muttered something about how terrible it was , and walked with deliberate slowness to the elevator .",elevator,elevator.n.01,elevator.n.01,elevator%1:06:00::,1.0820338726043701,True
+d000.s085.t006,"Once inside his apartment , he poured a drink with trembling hands and flopped limply in a chair .",chair,chair.n.01,chair.n.01,chair%1:06:00::,2.95790958404541,True
+d000.s086.t005,"After a while he began to feel better about it , especially when no one bothered to ask any questions .",questions,question.n.01,question.n.03,question%1:10:03::,3.254490613937378,False
+d000.s088.t002,"Still later , he finally convinced himself that it was an accident -- just a coincidence .",coincidence,coincidence.n.01,coincidence.n.01,coincidence%1:11:00::,3.674670696258545,True
+d000.s089.t003,"The stranger really had nothing to do with it , of course",do,make.v.01,make.v.01,do%2:41:01::,2.57409405708313,True
+d000.s090.t003,"Haney went to bed , happy that at least he was rid of that lousy landlord .",landlord,landlord.n.01,landlord.n.01,landlord%1:18:00::,2.9154083728790283,True
+d000.s091.t003,"After all , the man had no family , so no one suffered , and everybody was better off for it .",suffered,suffer.v.03,suffer.v.03,suffer%2:37:00::,2.5496935844421387,True
+d000.s092.t003,"Really , he said to himself , nobody kills a man just as a favor ! !",favor,favor.n.04,favor.n.01,favor%1:04:00::,3.0355753898620605,False
+d000.s093.t002,So you thought I did n't mean what I said .,said,state.v.01,state.v.01,say%2:32:00::,3.7306318283081055,True
+d000.s094.t005,"The stranger 's eyes were large and sad , as if Phil Haney had hurt his feelings .",feelings,feeling.n.01,feeling.n.01,feeling%1:03:00::,3.547776937484741,True
+d000.s095.t006,"It was like a recurrent , annoying dream , but now the dream was beginning to take on overtones of a nightmare .",nightmare,nightmare.n.01,nightmare.n.02,nightmare%1:09:00::,0.693492591381073,False
+d000.s096.t001,"However , Haney knew it was not a dream .",dream,dream.n.01,dream.n.01,dream%1:09:01::,3.447340965270996,True
+d000.s097.t001,"He might be very tight , but he knew where he was .",knew,know.v.01,know.v.01,know%2:31:01::,2.778367757797241,True
+d000.s098.t007,"It was the same bar , and it was two weeks later -- Saturday night , when he had an excuse to drink heavier than usual .",usual,usual.a.01,usual.a.01,usual%3:00:00::,0.9989641308784485,True
+d000.s099.t008,"He had been sitting in the usual corner at the little table , as far as possible from any talkative , friendly lushes .",lushes,alcoholic.n.01,alcoholic.n.01,lush%1:18:00::,0.8789918422698975,True
+d000.s100.t007,He was enjoying the weekly ritual of washing down his pet grievance with bourbon slightly moistened with water .,water,water.n.01,water.n.01,water%1:27:00::,1.1024243831634521,True
+d000.s101.t002,This favorite grievance was not the landlord .,landlord,landlord.n.01,landlord.n.01,landlord%1:18:00::,3.093940019607544,True
+d000.s102.t000,He had already quite forgotten about him .,forgotten,forget.v.01,forget.v.01,forget%2:31:01::,2.8608546257019043,True
+d000.s103.t002,"In fact , he had only mentioned him on the spur of the moment .",moment,moment.n.01,moment.n.01,moment%1:28:00::,2.7545268535614014,True
+d000.s104.t001,His real grievance was Lolly .,grievance,grudge.n.01,grudge.n.01,grievance%1:12:00::,0.5058801770210266,True
+d000.s105.t009,"Toward the end of his fourth hairy highball , while he was moodily making wet rings on the table-top with the bottom of the glass , he became aware that he was not alone .",aware,aware.a.01,aware.a.01,aware%3:00:00::,3.448972702026367,True
+d000.s106.t010,"He looked up with bloodshot eyes and beheld the stranger sitting across the table , smiling a secret smile at him , as if they were fellow conspirators .",conspirators,conspirator.n.01,conspirator.n.01,conspirator%1:18:00::,2.7746052742004395,True
+d000.s107.t003,He had n't even noticed -- what was his name ? Pete ? -- he had n't seen him sit down .,sit down,,sit_down.v.01,sit_down%2:38:00::,-inf,False
+d000.s108.t006,"The man was uncanny , like a shadow , and made as much noise as a shadow .",shadow,apparition.n.03,shadow.n.01,shadow%1:26:01::,1.4905805587768555,False
+d000.s109.t008,"Haney felt like shrinking out of sight , but he was already trapped in the corner with the wiry , dark little man .",man,man.n.01,man.n.01,man%1:18:00::,2.289149284362793,True
+d000.s110.t007,He began to wish that he had n't shouted that other evening when the truck bore down through the crossing .,crossing,intersection.n.02,intersection.n.02,crossing%1:06:01::,2.6427059173583984,True
+d000.s111.t002,Was he going to be saddled from now on with a creep for a bar-buddy ?,bar-buddy,,barroom.n.01,bar%1:06:04::,-inf,False
+d000.s112.t003,He 'd have to start going to some of the other places again .,places,place.n.04,place.n.02,place%1:15:04::,2.9102911949157715,False
+d000.s113.t009,"In a low voice , almost whispering , the man had asked Phil if he was happy with the way the landlord had been taken off his back .",back,back.r.01,back.n.01,back%1:08:00::,3.2693896293640137,False
+d000.s114.t009,"He made the mistake of answering in an offhand way , and instantly realized that his skepticism must have showed in his face or voice .",voice,voice.n.02,voice.n.01,voice%1:07:00::,2.671520709991455,False
+d000.s115.t003,"Pete frowned slightly , then became sad and moody .",moody,dark.s.06,dark.s.06,moody%5:00:00:ill-natured:00,2.0596137046813965,True
+d000.s116.t008,"Haney did n't want to encourage his company , but felt he ought to buy him a drink anyhow , to prevent possible trouble .",trouble,trouble.n.01,fuss.n.02,trouble%1:11:01::,3.5066380500793457,False
+d000.s117.t000,But there was no trouble .,trouble,trouble.n.01,fuss.n.02,trouble%1:11:01::,3.6700668334960938,False
+d000.s118.t005,"The guy sulked over his drink , obviously upset by Haney 's lack of appreciation .",appreciation,appreciation.n.03,appreciation.n.03,appreciation%1:10:00::,2.166470527648926,True
+d000.s119.t004,"To break the uncomfortable silence , Haney began to talk .",talk,talk.v.01,talk.v.01,talk%2:32:01::,3.554147243499756,True
+d000.s120.t013,"In time , and two drinks later , he was complaining bitterly about his wife , He was on the subject for ten minutes or so when he noticed the renewed interest in his listener -- it showed in the alert face and the suddenly bright eyes .",eyes,eye.n.01,eye.n.01,eye%1:08:00::,2.67295503616333,True
+d000.s121.t004,"When he paused to moisten his throat , the stranger broke in .",broke in,,chime_in.v.01,break_in%2:32:00::,-inf,False
+d000.s122.t001,`` But why pay her bills ?,bills,charge.v.03,bill.n.02,bill%1:10:01::,1.4120159149169922,False
+d000.s123.t005,"If she runs around with other men , and if you hate her as you say , why not just divorce her `` ?",divorce,divorce.v.02,divorce.v.02,divorce%2:41:00::,2.4978315830230713,True
+d000.s124.t000,Haney scowled .,scowled,scowl.v.01,scowl.v.01,scowl%2:29:00::,2.8253092765808105,True
+d000.s125.t003,"`` That bitch would love a divorce `` , he growled .",growled,grumble.v.03,grumble.v.03,growl%2:32:00::,2.819155693054199,True
+d000.s126.t002,`` Then she 'd get half of everything I have .,have,have.v.01,own.v.01,have%2:40:04::,3.354914903640747,False
+d000.s127.t002,Community property deal -- you know .,know,know.v.01,know.v.03,know%2:31:02::,3.391756057739258,False
+d000.s128.t003,I 'd have to sell out my business to pay her off with her share .,share,share.n.01,share.n.01,share%1:21:00::,2.5981884002685547,True
+d000.s130.t000,Pete nodded understandingly .,nodded,nod.v.02,nod.v.01,nod%2:32:01::,0.6225660443305969,False
+d000.s132.t000,Now I see .,see,see.v.01,understand.v.02,see%2:31:01::,3.61360502243042,False
+d000.s133.t001,"You must understand , I have n't been in this state too long .",state,state.n.02,state.n.01,state%1:15:01::,2.4564871788024902,False
+d000.s134.t001,I came out here to retire .,retire,retire.v.01,retire.v.01,retire%2:41:01::,3.3803913593292236,True
+d000.s135.t002,That 's why I -- why I do a free job now and then .,job,occupation.n.01,caper.n.03,job%1:04:02::,3.0949695110321045,False
+d000.s136.t000,You should have told me about her before `` .,told,state.v.01,tell.v.02,tell%2:32:00::,2.9932327270507812,False
+d000.s137.t005,Haney felt a twinge of annoyance when he heard the now familiar line again .,line,telephone_line.n.02,argumentation.n.02,line%1:09:01::,1.6967566013336182,False
+d000.s138.t005,Then a wild thought ran circles through his clouded brain .,brain,brain.n.01,mind.n.01,brain%1:09:01::,2.632617235183716,False
+d000.s139.t003,Suppose -- just suppose this guy was really what he said he was T ! !,said,state.v.01,allege.v.01,say%2:32:01::,3.4713456630706787,False
+d000.s140.t002,A retired professional killer,killer,killer.n.01,killer.n.01,killer%1:18:00::,-0.3664764165878296,True
+d000.s141.t002,"If he was just a nut , no harm was done .",done,make.v.01,cause.v.01,do%2:36:02::,3.7181360721588135,False
+d000.s142.t001,"But if he was the real thing , he could do something about Lolly .",do,make.v.01,do.v.03,do%2:41:04::,3.6528515815734863,False
+d000.s143.t006,"He felt very cunning , very proud of himself as he played on the other man 's soft spot .",soft spot,,weak_part.n.01,soft_spot%1:07:00::,-inf,False
+d000.s144.t002,"`` No offense intended `` , he said gently .",said,state.v.01,say.v.08,say%2:32:15::,3.593925952911377,False
+d000.s145.t000,"`` But it 's just that -- well , you know .",know,know.v.01,know.v.01,know%2:31:01::,3.7846498489379883,True
+d000.s146.t004,"The cops did n't suspect a thing , and I thought it was a coincidence .",coincidence,coincidence.n.01,coincidence.n.01,coincidence%1:11:00::,2.983323574066162,True
+d000.s147.t000,"After all , I did n't know you , Pete .",know,know.v.01,know.v.04,know%2:31:00::,3.571016788482666,False
+d000.s148.t000,It could have been an accident `` .,accident,accident.n.01,accident.n.01,accident%1:11:01::,3.6514673233032227,True
+d000.s149.t000,He shrugged casually .,shrugged,shrug.v.01,shrug.v.01,shrug%2:29:00::,1.9096378087997437,True
+d000.s150.t001,`` But if you say you managed it ``,managed,pull_off.v.03,pull_off.v.03,manage%2:41:09::,2.400611639022827,True
+d000.s151.t001,The stranger was hooked .,hooked,dependent.s.06,hook.v.11,hook%2:32:09::,1.8658206462860107,False
+d000.s152.t001,His eyes burned feverishly .,burned,burn.v.02,burn.v.02,burn%2:43:01::,0.9925753474235535,True
+d000.s153.t000,"`` Yes , yes `` , he muttered impatiently .",muttered,mumble.v.01,mumble.v.01,mutter%2:32:01::,3.0422980785369873,True
+d000.s154.t002,`` Of course it looked like an accident .,accident,accident.n.01,accident.n.01,accident%1:11:01::,3.6371049880981445,True
+d000.s155.t005,I always work it that way -- and always at a time when the customer has an alibi .,alibi,excuse.n.01,alibi.n.01,alibi%1:10:00::,2.1897382736206055,False
+d000.s156.t001,"Let me prove it , Phil .",prove,prove.v.01,test.v.01,prove%2:41:03::,1.1544098854064941,False
+d000.s157.t002,I think I can manage one more favor for you `` .,favor,favor.n.02,favor.n.01,favor%1:04:00::,2.8453121185302734,False
+d000.s158.t000,He waited eagerly .,waited,wait.v.02,expect.v.03,wait%2:31:00::,1.3778325319290161,False
+d000.s159.t003,Haney swished the liquor in the bottom of his glass .,glass,glass.n.02,glass.n.02,glass%1:06:00::,3.183528423309326,True
+d001.s000.t014,"Tuesday 's rout of a GOP congressional hopeful in a Mississippi district that has n't backed a Democratic presidential candidate since Adlai Stevenson is another reminder that , at least at the federal level , political `` ticket splitting `` has been on the rise over the past half century .",half century,,half-century.n.01,half-century%1:28:00::,-inf,False
+d001.s001.t010,In only one presidential election year prior to 1948 did more than 20 % of the nation 's congressional districts choose a different party 's candidate for the White House than for the House of Representatives .,candidate,candidate.n.02,campaigner.n.01,candidate%1:18:01::,0.4287674129009247,False
+d001.s002.t002,Now that percentage routinely equals a third and twice has been above 40 % .,%,,percentage.n.01,percent%1:24:00::,-inf,False
+d001.s003.t006,"As we know , voters tend to favor Republicans more in races for president than in those for Congress .",president,president.n.03,president_of_the_united_states.n.02,president%1:04:04::,0.6288412809371948,False
+d001.s004.t016,"In every presidential election over the past half century , except for the Goldwater presidential candidacy , the GOP has captured a greater percentage of the major - party popular vote for president than it has of congressional seats or the popular vote for Congress .",vote,vote.n.05,vote.n.05,vote%1:09:00::,1.6074787378311157,True
+d001.s005.t001,"Prior to 1932 , the pattern was nearly the opposite .",opposite,reverse.n.01,reverse.n.01,opposite%1:24:03::,2.982219696044922,True
+d001.s006.t003,What accounts for the results of recent decades ?,decades,decade.n.01,decade.n.01,decade%1:28:00::,2.990779399871826,True
+d001.s007.t009,A simple economic theory may provide at least a partial explanation for the split personality displayed by Americans in the voting booth .,voting booth,,voting_booth.n.01,voting_booth%1:06:00::,-inf,False
+d001.s008.t002,The theory relies on three assumptions :,assumptions,premise.n.01,premise.n.01,assumption%1:10:00::,0.9802749156951904,True
+d001.s009.t029,"1 -RRB- Voters can `` buy `` one of two brands when they select their political agents -- a Republican brand that believes in the minimalist state and in the virtues of private markets over the vices of public action , and a Democratic brand that believes in big government and in public intervention to remedy the excesses attendant to the pursuit of private interest .",interest,interest.n.01,sake.n.01,interest%1:07:01::,2.0531258583068848,False
+d001.s010.t025,2 -RRB- Congressional representatives have two basic responsibilities while voting in office -- dealing with national issues -LRB- programmatic actions such as casting roll call votes on legislation that imposes costs and/or confers benefits on the population at large -RRB- and attending to local issues -LRB- constituency service and pork barrel -RRB- .,pork barrel,,pork_barrel.n.01,pork_barrel%1:21:00::,-inf,False
+d001.s011.t010,"3 -RRB- Republican congressional representatives , because of their belief in a minimalist state , are less willing to engage in local benefit-seeking than are Democratic members of Congress .",members,member.n.01,member.n.01,member%1:18:00::,-0.37175852060317993,True
+d001.s012.t011,"If these assumptions hold , voters in races for Congress face what in economic theory is called a prisoner 's dilemma and have an incentive , at the margin , to lean Democratic .",Democratic,democratic.a.01,democratic.a.02,democratic%3:01:00::,0.6466450095176697,False
+d001.s013.t013,"If they put a Republican into office , not only will they acquire less in terms of local benefits but their selected legislator will be relatively powerless to prevent other legislators from `` bringing home the bacon `` to their respective constituencies .",constituencies,constituency.n.01,constituency.n.01,constituency%1:14:00::,0.5473769307136536,True
+d001.s014.t004,"Each legislator , after all , is only one out of 535 when it comes to national policy making .",making,make.v.01,devising.n.01,making%1:04:00::,3.2130327224731445,False
+d001.s015.t004,"In races for the White House , a voter 's incentive , at the margin , is to lean Republican .",lean,tend.v.01,tend.v.01,lean%2:42:01::,1.8773809671401978,True
+d001.s016.t017,"Although a GOP president may limit local benefits to the voter 's particular district/state , such a president is also likely to be more effective at preventing other districts/states and their legislators from bringing home the local benefits .",benefits,benefit.n.02,benefit.n.01,benefit%1:21:00::,-0.270877867937088,False
+d001.s017.t004,The individual voter 's standing consequently will be enhanced through lower taxes .,taxes,taxis.n.01,tax.n.01,tax%1:21:00::,-1.246851921081543,False
+d001.s018.t005,"While this theory is exceedingly simple , it appears to explain several things .",things,thing.n.01,thing.n.01,thing%1:26:00::,2.809525489807129,True
+d001.s019.t017,"First , why ticket splitting has increased and taken the peculiar pattern that it has over the past half century : Prior to the election of Franklin Roosevelt as president and the advent of the New Deal , government occupied a much smaller role in society and the prisoner 's dilemma problem confronting voters in races for Congress was considerably less severe .",severe,severe.s.06,severe.s.01,severe%5:00:00:intense:00,1.1684200763702393,False
+d001.s020.t023,"Second , it explains why voters hold Congress in disdain but generally love their own congressional representatives : Any individual legislator 's constituents appreciate the specific benefits that the legislator wins for them but not the overall cost associated with every other legislator doing likewise for his own constituency .",constituency,constituency.n.01,constituency.n.01,constituency%1:14:00::,-0.23882146179676056,True
+d001.s021.t011,"Third , the theory suggests why legislators who pay too much attention to national policy making relative to local benefit-seeking have lower security in office .",office,office.n.04,office.n.04,office%1:26:00::,0.8735877871513367,True
+d001.s022.t007,"For example , first-term members of the House , once the most vulnerable of incumbents , have become virtually immune to defeat .",defeat,defeat.n.01,get_the_better_of.v.01,defeat%2:33:00::,2.7769832611083984,False
+d001.s023.t010,The one exception to this recent trend was the defeat of 13 of the 52 freshman Republicans brought into office in 1980 by the Reagan revolution and running for re-election in 1982 .,re-election,,reelection.n.01,reelection%1:04:00::,-inf,False
+d001.s024.t010,"Because these freshmen placed far more emphasis on their partisan role -- spreading the Reagan revolution -- in national policy making , they were more vulnerable to defeat .",vulnerable,vulnerable.a.01,vulnerable.a.01,vulnerable%3:00:00::,2.31259822845459,True
+d001.s025.t010,"Fourth , the theory indicates why the Republican Party may have a difficult time attracting viable candidates for congressional office .",office,office.n.04,office.n.04,office%1:26:00::,0.7681482434272766,True
+d001.s026.t010,Potential candidates may be discouraged from running less by the congressional salary than by the prospect of defeat at the hands of a Democratic opponent .,opponent,adversary.n.01,opposition.n.04,opponent%1:18:02::,0.8927555680274963,False
+d001.s027.t014,"To the extent that potential Republican candidates and their financial backers realize that the congressional prisoner 's dilemma game works to their disadvantage , the Republican Party will be hindered in its attempts to field a competitive slate of congressional candidates .",candidates,campaigner.n.01,campaigner.n.01,candidate%1:18:01::,0.11490041762590408,True
+d001.s028.t004,"Fifth , the theory may provide at least a partial reason for why ticket splitting has been particularly pronounced in the South .",reason,reason.n.01,reason.n.02,reason%1:10:01::,2.816636562347412,False
+d001.s029.t021,"To the extent that Democratic legislators from the South have held a disproportionate share of power in Congress since 1932 and have been able to translate such clout into relatively more local benefits for their respective constituencies , voters in the South have had an especially strong incentive to keep such Democrats in office .",office,office.n.04,office.n.04,office%1:26:00::,0.6886038184165955,True
+d001.s030.t005,"Finally , the theory suggests why Republicans generally have fared better in Senate races than in campaigns for the House .",campaigns,political_campaign.n.01,political_campaign.n.01,campaign%1:11:00::,2.7983100414276123,True
+d001.s031.t016,"Since local benefit-seeking matters more and national policy making matters less in the lower chamber of Congress , this is precisely the pattern one would expect if Republicans are less willing to engage in local benefit-seeking than their Democratic counterparts .",counterparts,counterpart.n.01,counterpart.n.01,counterpart%1:09:00::,-0.9436336159706116,True
+d001.s032.t002,Is there any empirical support for this theory ?,theory,theory.n.03,theory.n.01,theory%1:09:00::,1.6651067733764648,False
+d001.s033.t012,Three pieces of evidence corroborate the key assumption that Democratic legislators are more willing to engage in local benefit-seeking than their Republican colleagues .,colleagues,colleague.n.01,colleague.n.02,colleague%1:18:01::,1.5984902381896973,False
+d001.s034.t009,"First , economists James Bennett and Thomas DiLorenzo find that GOP senators turn back roughly 10 % more of their allocated personal staff budgets than Democrats do .",Democrats,democrat.n.02,democrat.n.01,democrat%1:18:01::,0.5077545046806335,False
+d001.s035.t016,"To the extent that the primary duty of personal staff involves local benefit-seeking , this indicates that political philosophy leads congressional Republicans to pay less attention to narrow constituent concerns .",concerns,refer.v.02,concern.n.01,concern%1:09:00::,0.8188780546188354,False
+d001.s036.t025,"Second , if the key assumption is valid , Democrats should have lower attendance rates on roll-call votes than Republicans do to the extent that such votes reflect national policy making and that participating in such votes takes away from the time a legislator could otherwise devote to local benefit-seeking .",benefit-seeking,,benefit.n.02,benefit%1:07:00::,-inf,False
+d001.s037.t002,"This is indeed what the data indicate , particularly in the case of the House .",case,event.n.02,event.n.02,case%1:26:00::,3.33931040763855,True
+d001.s038.t006,The Democratic House attendance rate has not exceeded the Republican House attendance rate since 1959 .,rate,rate.n.01,rate.n.01,rate%1:28:00::,2.494441032409668,True
+d001.s039.t019,"Finally , as shown in the table , Democrats allocate a higher proportion of their personal staffs to district offices -- where local benefit-seeking duties matter more and national policy making activities matter less relative to Washington offices .",offices,function.n.03,agency.n.01,office%1:14:01::,0.7653063535690308,False
+d001.s040.t023,"An examination of changes in personal staffing decisions in the Senate between 1986 and 1987 -LRB- when control of that body changed party hands -RRB- , moreover , reveals that the personal staffing differences noted in the table can not be attributed to the disproportionate control Democrats exercise , due to their majority-party status , over other resources such as committee staff .",staff,staff.n.01,staff.n.01,staff%1:14:01::,-0.21179433166980743,True
+d001.s041.t034,"An additional piece of evidence from the Senate : Holding other factors constant , such as incumbency advantages and regional factors , the difference between popular votes for Republican presidential and senatorial candidates in states conducting a Senate election turns out to be a positive function of how onerous the federal government 's tax burden is per state -LRB- a progressive tax rate hits higher - income states harder -RRB- .",states,state.n.01,state.n.01,state%1:15:01::,1.269426703453064,True
+d001.s042.t009,"Put more simply , GOP candidates for president are looked on more kindly by voters than Republican candidates for the Senate when the prisoner 's dilemma is more severe .",severe,severe.s.06,severe.s.01,severe%5:00:00:intense:00,2.1747097969055176,False
+d001.s043.t009,"Moreover , ticket splitting appears to take the same peculiar pattern at the state government level as it does at the federal level .",level,degree.n.01,degree.n.02,level%1:26:00::,1.9460469484329224,False
+d001.s044.t004,State government is more typically split along Republican-governor / Democratic-legislature lines than the reverse .,reverse,reverse.n.01,reverse.n.01,reverse%1:24:00::,0.2313729226589203,True
+d001.s045.t023,"A cross-state econometric investigation , furthermore , reveals that , holding other factors constant , the difference between a state 's major - party vote going to the Republican gubernatorial candidate and the Republican share of the lower state house is a positive function of the state tax rate .",tax rate,,tax_rate.n.01,tax_rate%1:21:00::,-inf,False
+d001.s046.t013,"In sum , at both the federal and state government levels at least part of the seemingly irrational behavior voters display in the voting booth may have an exceedingly rational explanation .",explanation,explanation.n.02,explanation.n.01,explanation%1:10:00::,3.3074958324432373,False
+d001.s047.t001,Mr. Zupan teaches at the University of Southern California 's business school .,business school,,business_school.n.01,business_school%1:14:00::,-inf,False
+d002.s000.t008,"In the long , frightening night after Tuesday 's devastating earthquake , Bay Area residents searched for comfort and solace wherever they could .",solace,consolation.n.01,consolation.n.02,solace%1:04:00::,2.9474709033966064,False
+d002.s001.t002,Some found it on the screen of a personal computer .,personal computer,,personal_computer.n.01,personal_computer%1:06:00::,-inf,False
+d002.s002.t009,"Hundreds of Californians made their way to their computers after the quake , and checked in with each other on electronic bulletin boards , which link computers CB-radio-style , via phone lines .",phone lines,,telephone_line.n.02,phone_line%1:06:00::,-inf,False
+d002.s003.t004,"Some of the most vivid bulletins came over The Well , a Sausalito , Calif. , board that is one of the liveliest outposts of the electronic underground .",electronic,electronic.a.01,electronic.a.01,electronic%3:01:00::,0.038524359464645386,True
+d002.s004.t002,"About two-thirds of the Well 's 3,000 subscribers live in the Bay Area .",live,populate.v.01,populate.v.01,live%2:42:08::,3.3778133392333984,True
+d002.s005.t007,"The quake knocked The Well out for six hours , but when it came back up , it teemed with emotional first-hand reports .",reports,report.n.03,report.n.03,report%1:10:00::,2.890749216079712,True
+d002.s006.t003,Following are excerpts from the electronic traffic that night .,night,night.n.01,night.n.01,night%1:28:00::,2.218132734298706,True
+d002.s007.t006,"The time is Pacific Daylight Time , and the initials or nicknames are those subscribers use to identify themselves .",identify,identify.v.01,name.v.02,identify%2:32:00::,3.0191216468811035,False
+d002.s011.t008,"I was in the avenues , on the third floor of an old building , and except for my heart -LRB- Beat , BEAT ! -RRB- I 'm OK .",OK,very_well.r.02,all_right.s.01,ok%5:00:00:satisfactory:00,1.3569132089614868,False
+d002.s012.t007,"Got back to Bolinas , and everything had fallen : broken poster frames with glass on the floor , file cabinets open or dumped onto the floor .",floor,floor.n.01,floor.n.01,floor%1:06:00::,1.9935564994812012,True
+d002.s015.t003,"I was in my favorite watering hole , waiting for the game to start .",start,start.v.09,get_down.v.07,start%2:30:00::,3.0030007362365723,False
+d002.s016.t011,"I felt the temblor begin and glanced at the table next to mine , smiled that guilty smile and we both mouthed the words , `` Earth-quake ! `` together .",Earth-quake,,earthquake.n.01,earthquake%1:11:00::,-inf,False
+d002.s017.t003,That 's usually how long it takes for the temblors to pass .,pass,happen.v.01,elapse.v.01,pass%2:38:03::,3.693892002105713,False
+d002.s018.t008,"This time , it just got stronger and then the building started shaking violently up and down as though it were a child 's toy block that was being tossed .",tossed,flip.v.06,convulse.v.03,toss%2:38:01::,2.73793363571167,False
+d002.s021.t001,I was in the Berkeley Main library when it hit .,hit,hit.v.01,hit.v.05,hit%2:35:05::,3.522061824798584,False
+d002.s022.t007,Endless seconds wondering if those huge windows would buckle and shower us with glass .,glass,glass.n.02,glass.n.01,glass%1:27:00::,3.1526737213134766,False
+d002.s023.t003,Only a few books fell in the reading room .,reading room,,reading_room.n.01,reading_room%1:06:00::,-inf,False
+d002.s024.t009,Then the auto paint shop fire sent an evil-looking cloud of black smoke into the air .,air,atmosphere.n.03,air.n.01,air%1:27:00::,2.141190528869629,False
+d002.s027.t001,My younger daughter and I are fine .,fine,all_right.s.01,all_right.s.01,fine%5:00:00:satisfactory:00,2.3634910583496094,True
+d002.s028.t004,This building shook like hell and it kept getting stronger .,getting,become.v.01,become.v.01,get%2:30:00::,3.0639538764953613,True
+d002.s029.t005,"Except for the gas tank at Hustead 's Towing Service exploding and burning in downtown Berkeley , things here are quite peaceful .",peaceful,peaceful.a.01,peaceful.a.01,peaceful%3:00:00::,2.2527382373809814,True
+d002.s030.t003,A lot of car alarms went off .,went off,,go_off.v.02,go_off%2:30:00::,-inf,False
+d002.s031.t002,"The cats are fine , although nervous .",nervous,aflutter.s.01,anxious.s.02,nervous%5:00:00:troubled:00,2.3568949699401855,False
+d002.s034.t002,Huge fire from broken gas main in the Marina in SF .,gas main,,gas_main.n.01,gas_main%1:06:00::,-inf,False
+d002.s035.t002,Areas that are made of ` fill ' liquefy .,liquefy,liquefy.v.03,liquefy.v.02,liquefy%2:30:01::,2.221480131149292,False
+d002.s036.t010,A woman in a three-story apartment was able to walk out the window of the third floor onto street level after the quake .,quake,earthquake.n.01,earthquake.n.01,quake%1:11:00::,1.5075405836105347,True
+d002.s037.t001,The house just settled right down into the ground .,ground,land.n.04,land.n.04,ground%1:17:00::,3.57180118560791,True
+d002.s040.t006,"I was driving my truck , stopped at a red light at the corner of Shattuck and Alcatraz at the Oakland-Berkeley border when it hit .",hit,hit.v.01,hit.v.05,hit%2:35:05::,3.188666820526123,False
+d002.s041.t006,Worst part was watching power lines waving above my head and no way to drive away .,drive,drive.v.02,drive.v.02,drive%2:38:00::,2.123513698577881,True
+d002.s044.t001,Was 300 ft. out on a pier in San Rafael .,pier,pier.n.01,pier.n.01,pier%1:06:00::,1.0729684829711914,True
+d002.s045.t001,"It flopped all around , real dramatic !",dramatic,dramatic.a.01,dramatic.s.02,dramatic%5:00:00:impressive:00,3.157212257385254,False
+d002.s046.t004,Many hairline cracks in the concrete slabs afterwards .,slabs,slab.n.01,slab.n.01,slab%1:06:00::,-0.13876153528690338,True
+d002.s047.t002,Ruined the damn fishing !,fishing,fishing.n.01,fishing.n.01,fishing%1:04:00::,2.6286211013793945,True
+d002.s050.t003,I rode it out on the second floor of Leo 's at 55th and Telegraph in Oakland .,55th,fifty-fifth.s.01,fifty-fifth.s.01,55th%5:00:00:ordinal:00,-1.1680965423583984,True
+d002.s051.t004,I heard parts of the building above my head cracking .,cracking,crack.v.11,crack.v.02,crack%2:39:01::,3.045448064804077,False
+d002.s052.t001,I actually thought that I might die .,die,die.v.01,die.v.01,die%2:30:00::,2.7607364654541016,True
+d002.s053.t004,"I could n't decide if I should come home to Marin , because my house is on stilts .",stilts,stilt.n.02,pile.n.06,stilt%1:06:01::,0.9395551681518555,False
+d002.s054.t002,I decided to brave the storm .,storm,storm.n.01,storm.n.02,storm%1:26:00::,1.973410725593567,False
+d002.s055.t005,There was a horrible smell of gas as I passed the Chevron refinery before crossing the Richmond-San Rafael Bridge .,crossing,traverse.v.01,traverse.v.01,cross%2:38:00::,1.4952751398086548,True
+d002.s056.t004,I could also see the clouds across the bay from the horrible fire in the Marina District of San Francisco .,fire,fire.n.01,fire.n.01,fire%1:11:00::,3.336535930633545,True
+d002.s057.t002,I have felt many aftershocks .,aftershocks,aftershock.n.01,aftershock.n.01,aftershock%1:11:00::,2.0225870609283447,True
+d002.s058.t003,My back is still in knots and my hands are still shaking .,shaking,shake.v.02,shake.v.02,shake%2:29:00::,3.3747901916503906,True
+d002.s059.t004,I think a few of the aftershocks might just be my body shaking .,shaking,shake.v.02,shake.v.02,shake%2:29:00::,3.4034957885742188,True
+d002.s062.t003,I could see the flames from San Francisco from my house across the bay .,bay,bay.n.01,bay.n.01,bay%1:17:00::,2.4235002994537354,True
+d002.s063.t002,It 's hard to believe this really is happening .,happening,happen.v.01,happen.v.01,happen%2:30:00::,3.5705080032348633,True
+d002.s066.t007,"Building on the corner severely damaged , so an old lady and her very old mother are in the guest room .",guest room,,guestroom.n.01,guestroom%1:06:00::,-inf,False
+d002.s067.t001,Books and software everywhere .,software,software.n.01,software.n.01,software%1:10:00::,-0.077237069606781,True
+d002.s068.t002,This being typed in a standing position .,position,status.n.01,position.n.04,position%1:07:01::,2.06553053855896,False
+d002.s072.t005,"Did n't feel a thing , but noticed some strange bird behavior .",behavior,behavior.n.01,behavior.n.04,behavior%1:04:01::,1.2703220844268799,False
+d002.s073.t001,Duck swarms .,swarms,pour.v.02,drove.n.02,swarm%1:14:01::,0.3101654648780823,False
+d002.s076.t003,I just felt another aftershock a few seconds ago .,seconds,second.n.01,second.n.01,second%1:28:00::,1.7293174266815186,True
+d002.s077.t000,I 'm just numb .,numb,asleep.s.02,numb.s.03,numb%5:00:00:afraid:00,3.0462160110473633,False
+d002.s080.t003,Downtown Bolinas seems to be the part of town that 's worst off .,town,town.n.01,town.n.01,town%1:15:00::,0.776892364025116,True
+d002.s081.t008,"No power , minimal phones , and a mess of mayonnaise , wine , and everything else all over the floors of the big old general store and the People 's Co-op .",general store,,country_store.n.01,general_store%1:06:00::,-inf,False
+d002.s082.t012,"The quivers move through my house every few minutes at unpredictable intervals , and the mouse that 's been living in my kitchen has taken refuge under my desk .",desk,desk.n.01,desk.n.01,desk%1:06:00::,2.4690463542938232,True
+d002.s083.t001,"It runs out frantically now and then , and is clearly pretty distressed .",distressed,disquieted.s.01,dysphoric.a.01,distressed%3:00:04::,2.6165261268615723,False
+d002.s084.t002,I was in Stinson Beach when the quake rolled through town .,town,town.n.01,town.n.01,town%1:15:00::,3.220546007156372,True
+d002.s086.t016,"Then as things got rougher , we ran for the door and spent the next few minutes outside watching the brick sidewalk under our feet oozing up and down , and the flowers waving in an eerie rhythm .",rhythm,rhythm.n.01,rhythm.n.02,rhythm%1:07:01::,0.05980893224477768,False
+d002.s087.t006,Amazing what it does to one 's heart rate and one 's short-term memory .,memory,memory.n.02,memory.n.03,memory%1:09:00::,3.134542942047119,False
+d002.s088.t007,"Everyone looked calm , but there was this surreal low level of confusion as the aftershocks continued .",continued,continue.v.01,continue.v.10,continue%2:30:10::,2.9332056045532227,False
+d002.s091.t008,"Power is back on , and UCSF -LCB- medical center -RCB- seems to have quieted down for the night -LRB- they were doing triage out in the parking lot from the sound and lights of it -RRB- .",lights,light.n.05,light.n.02,light%1:06:00::,2.500185489654541,False
+d002.s092.t006,A friend of mine was in an underground computer center in downtown SF when the quake hit .,hit,hit.v.01,hit.v.05,hit%2:35:05::,3.078997850418091,False
+d002.s093.t006,He said that one of the computers took a three-foot trip sliding across the floor .,floor,floor.n.01,floor.n.01,floor%1:06:00::,2.314422130584717,True
+d002.s094.t006,Today should be interesting as people realize how hard life is going to be here for a while .,while,while.n.01,while.n.01,while%1:28:00::,-0.45990657806396484,True
+d002.s097.t010,"I got home , let the dogs into the house and noticed some sounds above my head , as if someone were walking on the roof , or upstairs .",roof,roof.n.01,roof.n.01,roof%1:06:00::,1.4153101444244385,True
+d002.s098.t004,Then I noticed the car was bouncing up and down as if someone were jumping on it .,jumping,jump.v.08,jump.v.01,jump%2:38:00::,2.298584461212158,False
+d002.s099.t004,I realized what was happening and screamed into the house for the dogs .,dogs,dog.n.01,dog.n.01,dog%1:05:00::,2.455265760421753,True
+d002.s100.t017,"Cupboard doors were flying , the trash can in the kitchen walked a few feet , the dogs came running , and I scooted them into the dog run and stood in the doorway myself , watching the outside trash cans dance across the concrete .",concrete,concrete.n.01,concrete.n.01,concrete%1:27:00::,2.5279977321624756,True
+d002.s101.t010,"When I realized it was over , I went and stood out in front of the house , waiting and praying for Merrill to come home , shivering as if it were 20 below zero until he got there .",got,arrive.v.01,arrive.v.01,get%2:38:00::,2.3350703716278076,True
+d002.s102.t001,Never in my life have I been so frightened .,frightened,panicky.s.01,frightened.s.01,frightened%5:00:00:afraid:00,2.707270622253418,False
+d002.s103.t003,"When I saw the pictures of 880 and the Bay Bridge , I began to cry .",cry,shout.v.02,cry.v.02,cry%2:29:00::,3.3580286502838135,False
+d002.s106.t006,"The Sunset -LCB- District -RCB- was more or less like a pajama party all evening , lots of people &amp; dogs walking around , drinking beer .",beer,beer.n.01,beer.n.01,beer%1:13:00::,0.5871550440788269,True
+d002.s109.t009,"I was just sitting down to meet with some new therapy clients , a couple , and the building started shaking like crazy .",like crazy,,like_hell.r.01,like_crazy%4:02:00::,-inf,False
+d002.s110.t004,"It 's a flimsy structure , built up on supports , and it was really rocking around .",rocking,rock.v.01,rock.v.01,rock%2:38:00::,1.8930519819259644,True
+d002.s111.t006,"The three of us stopped breathing for a moment , and then when it kept on coming we lunged for the doorway .",doorway,doorway.n.01,doorway.n.01,doorway%1:06:00::,3.2200570106506348,True
+d002.s112.t004,"Needless to say , it was an interesting first session !",session,session.n.03,session.n.03,session%1:04:00::,2.764631986618042,True
+d002.s115.t001,Albany escaped embarrassingly unscathed .,unscathed,unharmed.s.01,unharmed.s.01,unscathed%5:00:00:uninjured:00,0.9590893983840942,True
+d002.s116.t008,"Biggest trouble was scared family who could n't get a phone line through , and spent a really horrible hour not knowing .",knowing,know.v.01,know.v.01,know%2:31:01::,3.4590721130371094,True
+d002.s119.t005,Judy and I were in our back yard when the lawn started rolling like ocean waves .,waves,wave.n.07,wave.n.01,wave%1:11:01::,2.1737060546875,False
+d002.s120.t010,"We ran into the house to get Mame , but the next tremor threw me in the air and bounced me as I tried to get to my feet .",feet,foot.n.01,foot.n.01,foot%1:08:01::,3.186952590942383,True
+d002.s121.t001,"We are all fine here , although Mame was extremely freaked .",freaked,freak_out.v.01,freak_out.v.01,freak%2:37:00::,1.1606217622756958,True
+d002.s122.t002,Kitchen full of broken crystal .,crystal,crystal.n.01,crystal.n.05,crystal%1:06:01::,1.3891746997833252,False
+d002.s123.t002,Books and tapes all over my room .,room,room.n.01,room.n.01,room%1:06:00::,2.815704822540283,True
+d002.s124.t003,"Not one thing in the house is where it is supposed to be , but the structure is fine .",fine,all_right.s.01,all_right.s.01,fine%5:00:00:satisfactory:00,3.044236660003662,True
+d002.s125.t009,"While I was standing on the lawn with Mame , waiting for another tremor , I noticed that all the earthworms were emerging from the ground and slithering across the lawn !",lawn,lawn.n.01,lawn.n.01,lawn%1:15:00::,-0.06793338060379028,True
+d002.s128.t003,It 's amazing how one second can so completely change your life .,life,animation.n.01,life.n.03,life%1:26:02::,3.5873446464538574,False
+d002.s131.t003,"I guess we 're all living very tentatively here , waiting for the expected but dreaded aftershock .",aftershock,aftershock.n.01,aftershock.n.01,aftershock%1:11:00::,2.0077216625213623,True
+d002.s132.t003,It 's hard to accept that it 's over and only took 15 seconds .,seconds,second.n.01,second.n.01,second%1:28:00::,2.704218626022339,True
+d002.s133.t002,I wonder when we 'll be able to relax .,relax,relax.v.01,relax.v.01,relax%2:29:00::,3.088625431060791,True
+d002.s136.t004,Flesh goes to total alert for flight or fight .,fight,fight.n.02,fight.n.02,fight%1:04:02::,3.128870964050293,True
+d002.s137.t003,Nausea seems a commonplace symptom .,symptom,symptom.n.02,symptom.n.01,symptom%1:26:00::,1.1698858737945557,False
+d002.s138.t000,Berkeley very quiet right now .,quiet,quiet.a.02,quiet.a.01,quiet%3:00:02::,0.8223198652267456,False
+d002.s139.t003,I walked along Shattuck between Delaware and Cedar at a few minutes before eight this morning .,morning,morning.n.01,morning.n.01,morning%1:28:00::,3.7170326709747314,True
+d002.s140.t013,"Next to Chez Panisse a homeless couple , bundled into a blue sleeping bag , sat up , said , `` Good morning `` and then the woman smiled , said , `` Is n't it great just to be alive ? ``",alive,alive.a.01,alive.a.01,alive%3:00:01::,-0.30307698249816895,True
+d002.s141.t000,I agreed .,agreed,agree.v.01,agree.v.01,agree%2:32:00::,2.8649845123291016,True
